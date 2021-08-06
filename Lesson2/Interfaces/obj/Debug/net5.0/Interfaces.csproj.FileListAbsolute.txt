@@ -1,0 +1,12 @@
+C:\Users\a\source\repos\Lesson2\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\a\source\repos\Lesson2\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\a\source\repos\Lesson2\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\a\source\repos\Lesson2\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\a\source\repos\Lesson2\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\Lesson2\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\source\repos\Lesson2\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\Lesson2\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\a\source\repos\Lesson2\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\Lesson2\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\a\source\repos\Lesson2\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\a\source\repos\Lesson2\Interfaces\obj\Debug\net5.0\Interfaces.pdb
