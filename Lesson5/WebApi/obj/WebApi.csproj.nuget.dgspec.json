@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a\\source\\repos\\Lesson5\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\a\\Source\\Repos\\asp.net-core-hw\\Lesson5\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a\\source\\repos\\Lesson5\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\a\\Source\\Repos\\asp.net-core-hw\\Lesson5\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a\\source\\repos\\Lesson5\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\a\\Source\\Repos\\asp.net-core-hw\\Lesson5\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\a\\source\\repos\\Lesson5\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\a\\Source\\Repos\\asp.net-core-hw\\Lesson5\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a\\source\\repos\\Lesson5\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\a\\Source\\Repos\\asp.net-core-hw\\Lesson5\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
